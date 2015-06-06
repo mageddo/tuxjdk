@@ -12,6 +12,7 @@
         sudo apt-get install openjdk-8-jdk
 
  2. Install from launchpad without add-apt-repository
+
         # Add the next 2 lines to the /etc/apt/sources.lst
         deb http://ppa.launchpad.net/no1wantdthisname/openjdk-fontfix/ubuntu trusty main 
         deb-src http://ppa.launchpad.net/no1wantdthisname/openjdk-fontfix/ubuntu trusty main
